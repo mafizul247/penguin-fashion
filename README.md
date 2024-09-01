@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Penguin Fashion** website is a mobile-responsive e-commerce platform designed for selling winter jackets for men and women. The website offers a clean and user-friendly interface, making it easy for customers to browse and purchase products.
+The **Penguin Fashion** website is a responsive e-commerce platform designed for selling winter jackets for men and women. The website offers a clean and user-friendly interface, making it easy for customers to browse and purchase products.
 
 ## Features
 
